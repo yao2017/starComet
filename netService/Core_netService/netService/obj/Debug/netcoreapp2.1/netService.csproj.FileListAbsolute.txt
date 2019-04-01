@@ -1,0 +1,3 @@
+C:\Users\pengtaihaida\Desktop\Learn\netService\Core_netService\netService\obj\Debug\netcoreapp2.1\netService.csproj.CoreCompileInputs.cache
+C:\Users\pengtaihaida\Desktop\Learn\netService\Core_netService\netService\obj\Debug\netcoreapp2.1\netService.AssemblyInfoInputs.cache
+C:\Users\pengtaihaida\Desktop\Learn\netService\Core_netService\netService\obj\Debug\netcoreapp2.1\netService.AssemblyInfo.cs
