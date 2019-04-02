@@ -11873,11 +11873,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pengtaihaida\\Desktop\\Learn\\netService\\Core_netService\\netService\\netService.csproj",
+      "projectUniqueName": "C:\\github\\starComet\\netService\\Core_netService\\netService\\netService.csproj",
       "projectName": "netService",
-      "projectPath": "C:\\Users\\pengtaihaida\\Desktop\\Learn\\netService\\Core_netService\\netService\\netService.csproj",
+      "projectPath": "C:\\github\\starComet\\netService\\Core_netService\\netService\\netService.csproj",
       "packagesPath": "C:\\Users\\pengtaihaida\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pengtaihaida\\Desktop\\Learn\\netService\\Core_netService\\netService\\obj\\",
+      "outputPath": "C:\\github\\starComet\\netService\\Core_netService\\netService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
