@@ -56,11 +56,7 @@ namespace netModel
             {
                 throw new ArgumentNullException(nameof(value));
             }
-            _cache.Set(key, value,
-                    new MemoryCacheEntryOptions()
-                    .SetSlidingExpiration(expiresSliding)
-                    .SetAbsoluteExpiration(expiressAbsoulte)
-                    );
+            _cache.Set(key, value);
 
             return Exists(key);
         }

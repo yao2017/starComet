@@ -6,3 +6,4 @@ C:\github\starComet\netService\Core_netService\netModel\obj\Debug\netstandard2.0
 C:\github\starComet\netService\Core_netService\netModel\obj\Debug\netstandard2.0\netModel.AssemblyInfo.cs
 C:\github\starComet\netService\Core_netService\netModel\obj\Debug\netstandard2.0\netModel.dll
 C:\github\starComet\netService\Core_netService\netModel\obj\Debug\netstandard2.0\netModel.pdb
+C:\github\starComet\netService\Core_netService\netModel\obj\Debug\netstandard2.0\netModel.csprojAssemblyReference.cache
